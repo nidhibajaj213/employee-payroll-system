@@ -1,4 +1,4 @@
-he **Employee Payroll System** is a comprehensive software solution designed to manage and automate payroll processes for companies. It allows businesses to handle employee data, calculate salaries, and generate payroll reports with ease.
+The **Employee Payroll System** is a comprehensive software solution designed to manage and automate payroll processes for companies. It allows businesses to handle employee data, calculate salaries, and generate payroll reports with ease.
 
 ## Features
 
